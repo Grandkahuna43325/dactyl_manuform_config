@@ -1,1 +1,2 @@
-This is my keymaps.c for dactyl manuform 5x6
+# dactyl_manuform_config
+This is my dactyl manuform keymaps.c 
