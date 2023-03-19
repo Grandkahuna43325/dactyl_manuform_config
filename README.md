@@ -15,5 +15,7 @@ It contains keys for using mouse, changing volume and brightness and exec key.
 
 # this is reset mode
 It contains only the key to reset keyboard and a key to go back to first mode
-![image of reset mode](img/reset.png)
+<img src="img/reset.png" alt="image of reset mode">
+
+
 
