@@ -5,7 +5,15 @@ If you don't know what is qmk or keymaps.c you schould visit [qmk docs](https://
 If you are starting(like me) this is perfect config for you. I tried to keep it simple and later on I will explain what everything does.
 
 
-![](img/qwerty.png)
-![](img/mouse.png)
-![](img/reset.png)
+# This is first mode
+It contains config for normal qwerty mode keyboard.
+![image of normal qwerty mode](img/qwerty.png)
+
+# This is second mode(mouse and numpad)
+It contains keys for using mouse, changing volume and brightness and exec key. 
+![image of utility mode with mouse numpad and more](img/mouse.png)
+
+# this is reset mode
+It contains only the key to reset keyboard and a key to go back to first mode
+![image of reset mode](img/reset.png)
 
